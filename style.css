@@ -1,0 +1,45 @@
+
+body{
+    margin:0;
+    background:#111;
+    color:white;
+    font-family:'Cairo',sans-serif;
+    text-align:center;
+}
+.title{
+    margin-top:20px;
+    font-size:30px;
+}
+#gameCanvas{
+    display:block;
+    margin:20px auto;
+    background: #000;
+    border:3px solid rgb(255, 0, 174);
+}
+.controls button{
+    margin:5px;
+    padding:10px 20px;
+    font-size:18px;
+    border:none;
+    border-radius:8px;
+}
+.touch-controls{
+    margin-top:15px;
+}
+.touch-controls button{
+    padding:20px 30px;
+    margin:10px;
+    font-size:28px;
+    border-radius:12px;
+}
+
+#dl {
+
+    background-color: white;
+    color:black ;
+    margin:5px;
+    padding:10px 20px;
+    font-size:18px;
+    border:none;
+    border-radius:8px;
+}
